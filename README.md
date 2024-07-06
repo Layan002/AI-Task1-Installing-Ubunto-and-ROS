@@ -21,7 +21,7 @@ Desktop interface:<br>
 sudo apt update
 sudo apt upgrade
 ```
-- It is recommended to install the Desktop-Full as I did, to aquire all the functions without any diminution
+- It is recommended to install the Desktop-Full as I did. Because When you install the "Desktop-Full" package of ROS (Robot Operating System), you get a comprehensive set of tools and libraries that include everything in the standard desktop installation plus additional simulators and perception packages.
 ```bash
 sudo apt install ros-noetic-desktop-full
 ```
