@@ -21,5 +21,13 @@ Desktop interface:<br>
 sudo apt update
 sudo apt upgrade
 ```
+- It is recommended to install the Desktop-Full as I did, to aquire all the functions without any diminution
+```bash
+sudo apt install ros-noetic-desktop-full
+```
+<img scr="https://github.com/Layan002/AI-Task1-Installing-Ubunto-and-ROS/assets/107956591/372654d9-0386-4afc-9fc4-154aff90ff4b" alt="image" width="400"><br>
+
+
+
 
 
