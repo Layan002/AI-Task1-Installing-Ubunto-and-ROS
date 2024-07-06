@@ -30,8 +30,9 @@ sudo apt install ros-noetic-desktop-full
 <img src="https://github.com/Layan002/AI-Task1-Installing-Ubunto-and-ROS/assets/107956591/08518757-4c6a-47b2-bd13-2ec3fb91e0d2" alt="image" width="400"> <br>
 
 
+# Checking the successful instullation of ROS1 
 
-3- After completting ROS installation, operate some commands on the Ubunto terminal to check everything were installed successfully:<br>
+After completting ROS installation, operate some commands on the Ubunto terminal to check everything were installed successfully:<br>
 - Make sure your ROS environment variables are set. You can do this by sourcing your ROS setup file:<br>
 ```bash
 source /opt/ros/noetic/setup.bash
@@ -45,7 +46,21 @@ source ~/.bashrc
 ```bash
 printenv | grep ROS
 ```
+You should see something like this: <br>
 <img src="https://github.com/Layan002/AI-Task1-Installing-Ubunto-and-ROS/assets/107956591/8e0b768b-7da6-4afd-bd07-5f83e1ac894a" alt="image" width="400"> <br>
+- Check ROS Version - Run the following command to check the installed ROS version: <br>
+``` bash
+rosversion -d
+```
+This should output noetic. <br>
+- Start the ROS master node to ensure that ROS is functioning correctly: <br>
+``` bash
+roscore
+```
+Output: <br>
+<img src="https://github.com/Layan002/AI-Task1-Installing-Ubunto-and-ROS/assets/107956591/586aa40c-6f4c-4e81-9025-631aada60448" alt="image" width="400"> <br>
+
+
 
 
 
