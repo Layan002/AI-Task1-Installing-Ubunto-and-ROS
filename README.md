@@ -25,10 +25,10 @@ sudo apt upgrade
 ```bash
 sudo apt install ros-noetic-desktop-full
 ```
-
-<img src="https://github.com/Layan002/AI-Task1-Installing-Ubunto-and-ROS/assets/107956591/38503ef5-96c9-433e-b580-d01dcc136b79" alt="image" width="400"> <br>
-<img src="https://github.com/Layan002/AI-Task1-Installing-Ubunto-and-ROS/assets/107956591/08518757-4c6a-47b2-bd13-2ec3fb91e0d2" alt="image" width="400"> <br>
-
+<p align="center">
+  <img src="https://github.com/Layan002/AI-Task1-Installing-Ubunto-and-ROS/assets/107956591/38503ef5-96c9-433e-b580-d01dcc136b79" alt="First Image" width="45%" style="margin-right: 10px;">
+  <img src="https://github.com/Layan002/AI-Task1-Installing-Ubunto-and-ROS/assets/107956591/08518757-4c6a-47b2-bd13-2ec3fb91e0d2" alt="Second Image" width="45%">
+</p>
 
 # Checking the successful instullation of ROS1 
 
