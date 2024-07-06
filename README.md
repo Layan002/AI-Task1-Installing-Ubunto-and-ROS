@@ -13,10 +13,12 @@ Desktop interface:<br>
  
 
 # Installing ROS1
-1- To install ROS1, Open your Ubunto OS in the Virtual Machine, then follow the description in [this page](https://wiki.ros.org/noetic/Installation/Ubuntu) carefully. DONT just copy paste the commands on the terminal shell. In addition, I strongly recommend you to use ChatGPT if you encountered any problem. 
-2- commands extra explination from me: 
-- Before installing any peckage of Debian-based Linux distributions (such as Ubuntu). These commands are so important since they manage software packages. to run these two commands:
+1- To install ROS1, Open your Ubunto OS in the Virtual Machine, then follow the description in [this page](https://wiki.ros.org/noetic/Installation/Ubuntu) carefully. DONT just copy paste the commands on the terminal shell. In addition, I strongly recommend you to use ChatGPT if you encountered any problem.<br> 
+2- commands extra explination from me:<br>
+- Before installing any peckage of Debian-based Linux distributions (such as Ubuntu). These commands are so important since they manage software packages and to keep your system up-to-date and avoid many errors and problems you may encounter, use the following commands:
+```bash
 sudo apt update
 sudo apt upgrade
-- These commands allows you to avoid many errors and problems you may encounter
+```
+
 
