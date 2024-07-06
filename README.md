@@ -100,7 +100,7 @@ roscpp_tutorials talker
 ```
 <img src="https://github.com/Layan002/AI-Task1-Installing-Ubunto-and-ROS/assets/107956591/ef081311-f99f-49f1-ab84-bc060fdab9da" alt="image" width="400"> <br>
 
-If you done all of these commands and get the output, You can start with ROS, congratulations !
+If you've done all of these commands and get their outputs, you can start with ROS. Congratulations !
 
 
 
